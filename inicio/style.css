@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(4, 4, 45);
+   
+
+
+}
+.info{
+    margin-left: 7%;
+    margin-top: 10%;
+}
+
+.info h1{
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+
+.info h3{
+    font-size: 50px;
+    color: rgb(9, 242, 164);
+}
+button{
+    background-color: antiquewhite;
+    color: rgb(15, 15, 15);
+}
+ .imagen{
+    width: 30%;
+    height: 60%;
+    position: fixed;
+    right: 100%;
+    bottom: 0;
+ }
+  
+.imagen img{
+    position: fixed;
+    height: 70%;
+    left: 65%;
+    transform: translate(-50%);
+    bottom: 0;
+    
+} 

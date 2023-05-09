@@ -1,0 +1,11 @@
+[
+    {
+    "idUsuario" : 1,
+    "categoria": "cafeteria",
+    "producto" : "cafe",
+    "precio": 700,
+    "borrar" : "borrar"
+
+    }
+
+]

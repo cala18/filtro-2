@@ -1,0 +1,27 @@
+[
+    {
+    "idUsuario" : 1,
+    "categori": "cafeteria",
+    "producto" : "cafe",
+    "precio": 700,
+    "borrar" : "borrar"
+
+    },
+    {
+        "idUsuario" : 2,
+        "categori": "cafeteria",
+        "producto" : "cafe",
+        "precio": 700,
+        "borrar" : "borrar"
+    
+    },
+    {
+            "idUsuario" : 3,
+            "categori": "cafeteria",
+            "producto" : "cafe",
+            "precio": 700,
+            "borrar" : "borrar"
+        
+    }
+
+]
